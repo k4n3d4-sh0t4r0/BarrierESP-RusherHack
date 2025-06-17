@@ -1,6 +1,6 @@
 # RusherHack BarrierESP Plugin
 
-Rusherhack plugin that log all player encounters in a log file and display them in the chat
+Rusherhack plugin that lets the player see the barrier block as if he were holding one
 
 # Screenshots
 
