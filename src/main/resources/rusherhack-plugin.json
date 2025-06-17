@@ -1,0 +1,16 @@
+{
+  "Plugin-Class": "org.k4n3d4.BarrierESPPlugin",
+  "Name": "${project.plugin_name}",
+  "Version": "${project.plugin_version}",
+  "Description": "Example rusherhack core plugin",
+  "URL": "https://github.com/RusherDevelopment/example-core-plugin",
+  "Authors": [
+    "k4n3d4_sh0t4r0"
+  ],
+  "Minecraft-Versions": [
+    "${project.minecraft_version}"
+  ],
+  "Mixin-Configs": [
+    "mixins.barrier-esp.json"
+  ]
+}
