@@ -1,5 +1,5 @@
 {
-  "Plugin-Class": "org.k4n3d4.BarrierESPPlugin",
+  "Plugin-Class": "org.k4n3d4.BarrierESP.BarrierESPPlugin",
   "Name": "${project.plugin_name}",
   "Version": "${project.plugin_version}",
   "Description": "Example rusherhack core plugin",

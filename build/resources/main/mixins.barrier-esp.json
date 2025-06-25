@@ -1,9 +1,0 @@
-{
-  "required": true,
-  "minVersion": "0.8",
-  "package": "org.k4n3d4.mixins",
-  "compatibilityLevel": "JAVA_21",
-  "mixins": [
-    "ClientLevelMixin"
-  ]
-}
